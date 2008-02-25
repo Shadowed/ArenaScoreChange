@@ -1,0 +1,7 @@
+## Interface: 20300
+## Title: Arena Score Change
+## Version: $Revision: 458 $
+## Notes: Really simple addon, shows the new rating of teams inside arenas on the scoreboard
+## Author: Mayen
+
+ArenaScoreChange.lua
