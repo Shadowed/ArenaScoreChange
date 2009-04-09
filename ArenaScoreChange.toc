@@ -1,4 +1,4 @@
-## Interface: 20300
+## Interface: 30100
 ## Title: Arena Score Change
 ## Version: $Revision: 458 $
 ## Notes: Really simple addon, shows the new rating of teams inside arenas on the scoreboard
